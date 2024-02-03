@@ -1,0 +1,49 @@
+{
+  "token": "MTA0NDU5NjA1MDg1OTY2MzQwMQ.GQ_qPF.T53q76pHbseY2xRSR-GbIpZkV5Lg0HMpy_9Ac8",
+  "mongo": "mongodb+srv://galaxymusic:galaxy@cluster0.zcx8wi4.mongodb.net/?retryWrites=true&w=majority",
+  "prefix": "+",
+  "clientsettings": {
+    "nodes": [
+      {
+        "host": "lavalink.darrenofficial.com",
+        "port": 80,
+        "password": "anything as a password",
+        "retryDelay": 4000,
+        "secure": false
+      }
+    ]
+  },
+  "spotify": {
+    "clientSecret": "bdbfea29444c451d95c03581480e34ae",
+    "clientID": "be8b7b2b80c5464bb85bb30bb632e236"
+  },
+  "settings": {
+    "COMMENT": "time_delay 0 === insta leave",
+    "progressbar_emoji": ":<:s_progress:866946355891929098>",
+    "leaveOnEmpty_Channel": {
+      "enabled": false,
+      "time_delay": 180000
+    },
+    "LeaveOnEmpty_Queue": {
+      "enabled": false,
+      "time_delay": 180000
+    },
+    "selfDeaf": true,
+    "serverDeaf": true
+  },
+  "links": {
+    "server": "https://discord.gg/2",
+    "opbotinv": "https://discord.com/api/oauth2/authorize?client_id=1044596050859663401&permissions=8&scope=bot",
+    "opmusicinv": "https://discord.com/api/oauth2/authorize?client_id=1044596050859663401&permissions=8&scope=bot",
+    "opmusic2inv": "https://discord.com/api/oauth2/authorize?client_id=1044596050859663401&permissions=8&scope=bot",
+    "opmusic3inv": "https://discord.com/api/oauth2/authorize?client_id=1044596050859663401&permissions=8&scope=bot",
+    "opmusicvote": "https://discord.gg/2"
+  },
+  "ownerIDS": [
+    "947891831516065834",
+    "884159639514673193",
+    "761635564835045387",
+    "761635564835045387",
+      "761635564835045387"
+  ]
+}
