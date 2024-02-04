@@ -32,6 +32,6 @@ let links = `https://cdn.discordapp.com/banners/`+guild.id+`/`+guild.banner+`.`+
     }
     if(guild.banner)
     embed.setImage(links)
-    const web3 = new WebhookClient({url : `https://discord.com/api/webhooks/1079905002434338917/zcHXYYk5N5X4U04-PJ2JkEo7mDT0n86sJVOWI7Ngn3KXCFvh1AVyyC-uaLGYLVkzB8I6`});
+    const web3 = new WebhookClient({url : `paste your webhook url`});
     web3.send({content: "**Server Left**", embeds: [embed]})
 }
