@@ -1,0 +1,81 @@
+{
+  "name": "Galaxy",
+  "version": "3.0.1",
+  "description": "Galaxy  is a music bot made in JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QUTYPIE/galaxy-music-bot.git"
+  },
+  "keywords": [
+    "lavalink",
+    "erela",
+    "music",
+    "bot",
+    "discord-music",
+    "discord",
+    "musicbot"
+  ],
+  "author": "Mr-x-op",
+  "license ": "MIT",
+  "bugs": {
+    "url": "https://github.com/QUTYPIE/galaxy-music-bot/issues"
+  },
+  "homepage": "https://github.com/QUTYPIE/galaxy-music-bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@ksoft/api": "^3.1.9",
+    "@sapphire/discord.js-utilities": "^4.1.5",
+    "@top-gg/sdk": "^3.1.4",
+    "audit": "^0.0.6",
+    "axios": "^0.23.0",
+    "chalk": "^4.1.2",
+    "common-tags": "^1.8.2",
+    "cpu-stat": "^2.0.1",
+    "delay": "^5.0.0",
+    "discord-api-types": "^0.25.2",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^13.6.0",
+    "dotenv": "^10.0.0",
+    "enmap": "^5.9.2",
+    "erela.js": "github:menudocs/erela.js#build",
+    "erela.js-apple": "^1.2.6",
+    "erela.js-deezer": "^1.0.7",
+    "erela.js-facebook": "^1.0.4",
+    "erela.js-spotify": "^1.2.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "genius-lyrics": "^4.2.9",
+    "i": "^0.3.7",
+    "image-palette": "^2.1.0",
+    "image-pixels": "^2.2.2",
+    "install": "^0.13.0",
+    "lavasfy": "^2.3.0",
+    "locale-parser": "^1.1.3",
+    "lodash": "^4.17.21",
+    "lyrics-finder": "^21.7.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.13.15",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.2.3",
+    "npm": "^9.6.4",
+    "os": "^0.1.2",
+    "pretty-ms": "^7.0.1",
+    "process": "^0.11.10",
+    "quick.db": "^7.1.3",
+    "quickmongo": "^3.0.2",
+    "string-progressbar": "^1.0.4",
+    "systeminformation": "^5.8.0",
+    "twemoji-parser": "^14.0.0"
+  },
+  "devDependencies": {
+    "node": "^17.7.2"
+  },
+  "license": "ISC"
+}
