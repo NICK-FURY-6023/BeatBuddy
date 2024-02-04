@@ -1,0 +1,30 @@
+{
+  "prefix": "+",
+  "bot_token": "MTA0NDU5NjA1MDg1OTY2MzQwMQ.GQ_qPF.T53q76pHbseY2xRSR-GbIpZkV5Lg0HMpy_9Ac8",
+  "ksoftapi": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",
+  "ownerID": [
+    "761635564835045387","947891831516065834"
+  ],
+  "SpotifyID": "aece5b4d7d27426ebef592a75bd43a2c",
+  "SpotifySecret": "79a8a54525324e9aa3291eeb880ff287",
+  "mongourl": "mongodb+srv://galaxymusic:galaxy@cluster0.zcx8wi4.mongodb.net/?retryWrites=true&w=majority",
+  "embedColor": "#000000",       
+   "img": "https://cdn.discordapp.com/attachments/979241850957357138/1022853504026550432/maxresdefault.jpg",
+  "logs1": "1000734885788536872",
+  "logs": "1000734860752719883",
+  "logs2": "1079902856469041162",
+  "nodes": {
+          "id": "main",
+          "host": "de.royalhostinger.ml",
+          "port": 7022,
+          "password": "lavalink"
+        
+        },
+  "Webhooks": {
+    "bot_error": "https://discord.com/api/webhooks/1079904374211493979/vgciidA5ctmNtaAW7M1wVOIFkwME_e1ieAZwzueIOrNe6I0y_yinmRKt7hNC7xAS-Jg5",
+    "server_add": "https://discord.com/api/webhooks/1026145868883177543/NfyCtYzPgVSpAWTOncMt0Rgpj90X1UhGx3DiN_SaBg_O9QK0p9x9xPfTljJlaZqbD7U5",
+    "server_remove": "https://discord.com/api/webhooks/1079903809171636235/--IMKWYgOiZXrQWnQpEILjGWMkkGT2f4XKIkgC4V6wO5q9e0_VHGjlXkGDpfcpSGiECB",
+    "player_create": "https://discord.com/api/webhooks/1079904725526397061/f-vHlVOhaA-epcghir-4TebYMbQuyktb9hR2sUGaeki4j_z7vPWtoBoetDIRniwcTEYF",
+    "player_delete": "https://discord.com/api/webhooks/1079905002434338917/zcHXYYk5N5X4U04-PJ2JkEo7mDT0n86sJVOWI7Ngn3KXCFvh1AVyyC-uaLGYLVkzB8I6"
+  }
+}
