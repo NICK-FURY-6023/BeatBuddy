@@ -1,6 +1,6 @@
 const { MessageEmbed, MessageActionRow, MessageButton, Client, Permissions} = require("discord.js");
 const Topgg = require("@top-gg/sdk");
-const topgg = new Topgg.Api("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEwNDQ1OTYwNTA4NTk2NjM0MDEiLCJib3QiOnRydWUsImlhdCI6MTY3ODE5MjAwMX0.qwGv9fE_Az8lCmBJZNUCQO9E5Jc_5ppzg2hM2PQNX9s");
+const topgg = new Topgg.Api("paste ypur top.gg api key");
 
 module.exports = async (client, interaction) => {
 	 let prefix = await client.db.get(`prefix_${interaction.guild.id}`);
