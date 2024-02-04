@@ -79,4 +79,4 @@ Array(
 });
 
 
-client.login("MTA0NDU5NjA1MDg1OTY2MzQwMQ.GQ_qPF.T53q76pHbseY2xRSR-GbIpZkV5Lg0HMpy_9Ac8");
+client.login("paste your bot token");
