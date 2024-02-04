@@ -1,6 +1,6 @@
 {
-  "token": "MTA0NDU5NjA1MDg1OTY2MzQwMQ.GQ_qPF.T53q76pHbseY2xRSR-GbIpZkV5Lg0HMpy_9Ac8",
-  "mongo": "mongodb+srv://galaxymusic:galaxy@cluster0.zcx8wi4.mongodb.net/?retryWrites=true&w=majority",
+  "token": "paste your bot token",
+  "mongo": "paste your mongo db url",
   "prefix": "+",
   "clientsettings": {
     "nodes": [
@@ -14,8 +14,8 @@
     ]
   },
   "spotify": {
-    "clientSecret": "bdbfea29444c451d95c03581480e34ae",
-    "clientID": "be8b7b2b80c5464bb85bb30bb632e236"
+    "clientSecret": "paste your api key",
+    "clientID": "paste your api key"
   },
   "settings": {
     "COMMENT": "time_delay 0 === insta leave",
