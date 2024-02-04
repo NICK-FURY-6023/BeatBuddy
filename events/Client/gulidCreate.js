@@ -43,7 +43,7 @@ let links = `https://cdn.discordapp.com/banners/`+guild.id+`/`+guild.banner+`.`+
     }
     if(guild.banner)
     embed.setImage(links)
-    const web2 = new WebhookClient({url : `https://discord.com/api/webhooks/1079904725526397061/f-vHlVOhaA-epcghir-4TebYMbQuyktb9hR2sUGaeki4j_z7vPWtoBoetDIRniwcTEYF`});
+    const web2 = new WebhookClient({url : `packagel`});
     web2.send({content: "**Server Joined**", embeds: [embed]})
 }
 
